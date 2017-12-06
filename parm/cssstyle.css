@@ -1,0 +1,194 @@
+@charset "UTF-8";
+
+
+
+
+
+
+.homepage1 {
+  background-image: url(../parm/images/homepage1.jpg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 745px;
+  z-index: 1;
+}
+
+
+.navigation{
+	z-index: 99;
+	position: absolute;
+	left: 60px; 
+	top: 20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+	
+
+}
+
+
+.navbar { 
+	position: absolute;
+	height: 100px;
+	width: 650px;
+	}
+
+
+.ordernow_png {
+  background-image: url(../parm/images/ordernow.png);
+  position: absolute;
+  left: 207px;
+  top: 505px;
+  width: 181px;
+  height: 49px;
+  z-index: 208;
+
+}
+
+.ordernowhomeordernow_png {
+  background-image: url(../parm/images/ordernow.png);
+  position: absolute;
+  left: 959px;
+  top: 30px;
+  width: 181px;
+  height: 49px;
+  z-index: 100;
+
+}
+
+
+
+
+
+.menupage1_jpg {
+  background-image: url(../parm/images/menupagefinalgood.jpg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 4252px;
+  z-index: 1;
+}
+
+
+.orderpagebackground {
+  background-image: url(images/orderpagebackground.png);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 1571px;
+  z-index: 76;
+}
+
+
+
+.salad {
+  background-image: url(images/salad.png);
+  position: absolute;
+  left: -8px;
+  top: 676px;
+  width: 294px;
+  height: 563px;
+  z-index: 77;
+}
+
+
+.pizza {
+  background-image: url(images/pizza.png);
+  position: absolute;
+  left: 286px;
+  top: 676px;
+  width: 302px;
+  height: 563px;
+  z-index: 78;
+}
+
+
+.sub {
+  background-image: url(images/sub.png);
+  position: absolute;
+  left: 586px;
+  top: 676px;
+  width: 301px;
+  height: 563px;
+  z-index: 79;
+}
+
+
+.drink {
+  background-image: url(images/drink.png);
+  position: absolute;
+  left: 886px;
+  top: 676px;
+  width: 326px;
+  height: 563px;
+  z-index: 80;
+}
+
+.pizzaoverlay {
+  background-image: url(images/pizzaoverlay.png);
+  position: absolute;
+  left: 286px;
+  top: 676px;
+  width: 302px;
+  height: 563px;
+  z-index: 79;
+}
+
+.orderoverlay {
+  background-image: url(images/orderoverlay.png);
+  position: absolute;
+  left: 200px;
+  top: 479px;
+  width: 180px;
+  height: 49px;
+  z-index: 100;
+}
+
+.aboutpage {
+  background-image: url(images/aboutpage.png);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 2638px;
+  z-index: 5;
+}
+
+
+.bottomnav {
+  background-image: url(images/bottomnav.png);
+  position: absolute;
+  left: 230px;
+  top: 2432px;
+  width: 741px;
+  height: 206px;
+  z-index: 10;
+}
+
+
+.backtotop {
+  background-image: url(images/backtotop.png);
+  position: absolute;
+  left: 32px;
+  top: 3890px;
+  width: 256px;
+  height: 39px;
+  z-index: 99;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

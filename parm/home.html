@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>home</title>
+<link href="cssstyle.css" rel="stylesheet" type="text/css">
+
+
+<style>
+
+
+	
+	ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+	
+}
+
+li a:hover {
+	color: #C6BDBD;
+    
+}
+</style>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+
+<body onLoad="MM_preloadImages('Assets PS/ordernowhover.png')">
+
+<div class="navbar">
+	
+
+
+<ul class="navigation">
+  <li><a class="active" href="menu.html">MENU</a></li>
+  <li><a href="Order.html">ORDER</a></li>
+  <li><a href="#contact">SPECIALS</a></li>
+  <li><a href="#about">ABOUT</a></li>
+  <li><a href="#about">CONTACT</a></li>
+</ul>
+	
+	</div>
+
+
+	
+
+
+	<div class="homepage1">
+	
+	
+	<a href="Order.html">
+<img src="images/ordernowrealbutton.png" class="orderoverlay"  onMouseOver="MM_swapImage('Image1','','Assets PS/ordernowhover.png',1)" onMouseOut="MM_swapImgRestore()">
+</a>
+
+	</div>
+
+
+	
+	</body>
+	
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+</html>

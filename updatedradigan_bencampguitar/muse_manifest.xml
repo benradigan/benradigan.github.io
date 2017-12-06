@@ -1,0 +1,168 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="campguitar.com" resolutions="1x" timestamp="1512588529445">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3919961397" ref="index"/>
+    <file name="register.css" crc="3774539833" ref="register"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:register"/>
+    <file name="museutils.js" crc="3803043152" ref="index:register"/>
+    <file name="whatinput.js" crc="86476730" ref="index:register"/>
+    <file name="museconfig.js" crc="380897831" ref="index:register"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:register"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:register"/>
+    <file name="require.js" crc="4157109226" ref="index:register"/>
+  </folder>
+  <folder name="images">
+    <file name="backgroundhome.png" crc="349492081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backgroundabout.png" crc="4058464464" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="campguitar-01.png" crc="29029935" ref="index:register">
+      <caption webpage="index" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="redguitarhome.png" crc="4165379793" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="movementguitar.png" crc="4059711637" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acousticguitarhome.png" crc="4120743623" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="acousticguitarmovent.png" crc="3983764303" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="registernow.png" crc="464517990" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="register nowbig.png" crc="4174838274" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aboutsymbol.png" crc="442391189" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u867.png" crc="355327524" ref="index"/>
+    <file name="u867-a.png" crc="523734253" ref="index"/>
+    <file name="u968.png" crc="4174208976" ref="index"/>
+    <file name="u968-a.png" crc="431213319" ref="index"/>
+    <file name="u940.png" crc="496764318" ref="index"/>
+    <file name="u940-a.png" crc="315872978" ref="index"/>
+    <file name="u911.png" crc="3872697086" ref="index"/>
+    <file name="u911-a.png" crc="110977003" ref="index"/>
+    <file name="musicpartybackground.png" crc="3971806751" ref="index:register">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="register" alt=""/>
+    </file>
+    <file name="u4199-14.png" crc="4164666739" ref="index"/>
+    <file name="social_media_icons_pen_sketch_icons_set_256x256_0000_facebook.png" crc="3781790744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social_media_icons_pen_sketch_icons_set_256x256_0002_twitter.png" crc="3906451965" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="backgroundweeks.png" crc="420446172" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="weeks.png" crc="373142420" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="week2icon-u421-fr.png" crc="3821940084" ref="index"/>
+    <file name="week2-u421-r-fr.png" crc="3837109102" ref="index"/>
+    <file name="week1icon-u425-fr.png" crc="4095131704" ref="index"/>
+    <file name="week1-u425-r-fr.png" crc="4041790612" ref="index"/>
+    <file name="week4icon-u437-fr.png" crc="3990719632" ref="index"/>
+    <file name="week4-u437-r-fr.png" crc="355321371" ref="index"/>
+    <file name="week3guitaricon-u431-fr.png" crc="4049989677" ref="index"/>
+    <file name="week3-u431-r-fr.png" crc="4134058737" ref="index"/>
+    <file name="week 4.png" crc="4081282915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="week 1.png" crc="30244889" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="week 3.png" crc="3927462612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="week 2.png" crc="47227961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guitarplayer.png" crc="3841547299" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kaki king.jpg" crc="94595792" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="king-u804-r-fr.png" crc="79225742" ref="index"/>
+    <file name="kingwriteup.png" crc="450259696" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jesse cook.jpg" crc="90748649" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jessec-u800-r-fr.png" crc="353267145" ref="index"/>
+    <file name="canadian guitarist, composer, and producer widely considered o.png" crc="73411247" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jimmy page.jpg" crc="4250119548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="page is widely considered to be one of the greatest and most in.png" crc="268824360" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jesse cook name.png" crc="4245344126" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kaki kingname.png" crc="3839633861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steve vai.jpg" crc="385631396" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steve-u813-r-fr.png" crc="145480707" ref="index"/>
+    <file name="american guitarist, composer, singer, songwriter, and producer.png" crc="177258790" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="steve vainame.png" crc="4111866151" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jimmy pagename.png" crc="27678047" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="campguitar ingo.png" crc="165328578" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.png" crc="82630294" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homeclosed-u5452-fr.jpg" crc="258779315" ref="index"/>
+    <file name="homeclosed-u5452-r-fr.jpg" crc="303471447" ref="index"/>
+    <file name="homeclosed-u5452-m-fr.jpg" crc="254364190" ref="index"/>
+    <file name="aboutclosed-u5453-fr.jpg" crc="3815443246" ref="index"/>
+    <file name="aboutclosed-u5453-r-fr.jpg" crc="4049064532" ref="index"/>
+    <file name="weeks closed-u5454-fr.jpg" crc="4283762865" ref="index"/>
+    <file name="weeks closed-u5454-r-fr.jpg" crc="43972500" ref="index"/>
+    <file name="instructorsclosed-u5455-fr.jpg" crc="4185745954" ref="index"/>
+    <file name="instructorsclosed-u5455-r-fr.jpg" crc="4005185837" ref="index"/>
+    <file name="contactclosed-u5456-fr.jpg" crc="3958065864" ref="index"/>
+    <file name="contactclosed-u5456-r-fr.jpg" crc="473377600" ref="index"/>
+    <file name="u4124-4.png" crc="475186148" ref="register"/>
+    <file name="u4134-4.png" crc="3820485226" ref="register"/>
+  </folder>
+  <file name="index.html" crc="469269568" seo="true" mt="1512587816349" redirect="true"/>
+  <file name="register.html" crc="479320473" seo="true" mt="1511985788570" redirect="true"/>
+</manifest>
